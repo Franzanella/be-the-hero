@@ -6,3 +6,5 @@ Projeto Mobile para cadastrar animais perdidos
 
 
 app utilizado: Expo
+
+Tecnologia utilizada: React
